@@ -1,7 +1,7 @@
 ECS 165A 
 
 
-Our goal as a group is to design a database system based on a simplified L-Store from scratch alongside a hybrid transactional analytical processing database. This project is split into three parts, each one being focused on a specific milestone that we are attempting to reach as a group to steadily build and complete our database systems. We aim to take risks with this project in order to test the boundaries to see how complex and fast we can make this database run.
+Our goal is to design a database system based on a simplified L-Store from scratch alongside a hybrid transactional analytical processing database. This project is split into three parts, each one being focused on a specific milestone that we are attempting to reach as a group to steadily build and complete our database systems. We aim to take risks with this project in order to test the boundaries to see how complex and fast we can make this database run.
 
 We start by looking at the query function and look at all the following code blocks that we've developed in order to hit the ground running on our database systems:
 
